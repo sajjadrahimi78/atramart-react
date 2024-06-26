@@ -1,0 +1,79 @@
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 300;
+    src: url("/public/font/fonts/IRANSansWeb_Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 300;
+    src: url("/public/font/fonts/IRANSansWeb_Light.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/public/font/fonts/IRANSansWeb_Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/public/font/fonts/IRANSansWeb_Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/public/font/fonts/IRANSansWeb_Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/public/font/fonts/IRANSansWeb_Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 900;
+    src: url("/public/font/fonts/IRANSansWeb_Black.woff") format("woff");
+}
+
+@font-face {
+    font-family: "IRANSansWeb";
+    font-style: normal;
+    font-weight: 900;
+    src: url("/public/font/fonts/IRANSansWeb_Black.woff2") format("woff2");
+}
+
+/* --------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: "Vazir";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/Vazir/Vazirmatn-Regular.woff2") format("woff2");
+  }
+  
+  @font-face {
+    font-family: "Vazir";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/Vazir/Vazirmatn-Bold.woff2") format("woff2");
+  }
+  
+  @font-face {
+    font-family: "Vazir";
+    font-style: normal;
+    font-weight: 900;
+    src: url("/fonts/Vazir/Vazirmatn-Black.woff2") format("woff2");
+  }
+  
